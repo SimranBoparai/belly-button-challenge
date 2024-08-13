@@ -3,6 +3,9 @@ Week 14 Assignment
 # Belly Button Challenge
 
 This project presents an interactive dashboard that allows users to explore the Belly Button Biodiversity dataset, which catalogs the microbes found in human navels. The dataset reveals that a small subset of microbial species (operational taxonomic units (OTUs)) is present in more than 70% of people, while others are relatively rare.
+
+This challenge can be found at https://simranboparai.github.io/belly-button-challenge/
+
 # Table of Contents
 
 - [Belly Button Challenge](#belly-button-challenge)
